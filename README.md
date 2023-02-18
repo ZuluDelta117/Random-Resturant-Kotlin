@@ -36,5 +36,5 @@ It is an object oriented programing language meaning it runs with fnctions, clas
 
 - Move resturants lists to a (or sevearal) text file(s)
 - Allow user to add more resturants to the text file
-- Allow user to two lists and merge them for a random selection
+- Allow user to take two lists and merge them for a random selection
 - Allow user to ask for two options that they can pick from
