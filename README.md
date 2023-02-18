@@ -1,4 +1,3 @@
-Kotlin/src/main/kotlin/Food.kt
 # Overview
 
 This program uses classes to orginize lists, functions, while loops, random selection, and takes user input.
